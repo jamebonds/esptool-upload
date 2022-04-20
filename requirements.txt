@@ -1,3 +1,5 @@
 Flask
-flask-cors
+Flask-cors
 pyinstaller
+esptool
+pyserial
